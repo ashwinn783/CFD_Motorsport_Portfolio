@@ -11,6 +11,17 @@ My passion lies in using engineering insight and simulation tools to push the pe
 
 ---
 
+## Repository Structure
+
+| Folder         | Description |
+|----------------|-------------|
+| `Java_Macros/` | Java-based macros used in STAR-CCM+ for automating simulations and post-processing tasks. |
+| `Plots/`       | Visual plots of simulation results, including pressure coefficient distributions, streamlines, and force trends. |
+| `Renders/`     | High-quality rendered images from CFD visualizations for presentations and reports. |
+| `Scripts/`     | Python scripts for automation, data extraction, and batch post-processing of simulation results. |
+
+---
+
 ## Featured Projects
 
 ### Master’s Thesis: CFD for Formula Student
@@ -24,8 +35,8 @@ Conducted high-fidelity CFD simulations (RANS, DES, LES) for a Formula Student v
 > **Goal**: Maximize downforce while maintaining aerodynamic efficiency.
 
 - CAD designed in Creo; meshed and simulated in STAR-CCM+
-- Achieved **10% increase in downforce** with design iteration
-- Included **validation using aero rake data**
+- Achieved **10% increase in downforce** through iterative design optimization
+- Included **validation using aero rake and wind tunnel data**
 
 ---
 
