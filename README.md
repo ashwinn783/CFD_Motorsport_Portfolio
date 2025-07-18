@@ -13,6 +13,12 @@ My passion lies in using engineering insight and simulation tools to push the pe
 
 ## Featured Projects
 
+### Master’s Thesis: CFD for Formula Student
+
+Conducted high-fidelity CFD simulations (RANS, DES, LES) for a Formula Student vehicle to optimize aerodynamic efficiency and validate performance using track data.
+
+---
+
 ### Formula Student – Front Wing Optimization
 
 > **Goal**: Maximize downforce while maintaining aerodynamic efficiency.
@@ -20,15 +26,6 @@ My passion lies in using engineering insight and simulation tools to push the pe
 - CAD designed in Creo; meshed and simulated in STAR-CCM+
 - Achieved **10% increase in downforce** with design iteration
 - Included **validation using aero rake data**
-
----
-
-### Aero Correlation & Validation
-
-> **Goal**: Bridge CFD predictions and experimental data from track testing.
-
-- Correlated STAR-CCM+ results with real-world aero rake measurements
-- Delta reduced to **<10%** across key flow metrics (Cl, Cp)
 
 ---
 
